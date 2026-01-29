@@ -27,6 +27,7 @@
 - Git & GitHub
 - Docker (basic level)
 - Postman
+- DBeaver
 
 ---
 
@@ -54,5 +55,5 @@ I am looking for my first opportunity as a **Junior Full Stack Developer**, wher
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/adrián-fábregas-3707a8290/
+- 💼 LinkedIn: https://www.linkedin.com/in/adrián-fábregas
 - 📫 Mail: adriannoia104@gmail.com
