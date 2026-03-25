@@ -15,9 +15,10 @@
 ### Frontend
 - HTML
 - CSS
+- React
 - JavaScript
+- Tailwind
 - Bootstrap
-- Currently learning React
 
 ### Databases
 - SQL
@@ -25,7 +26,7 @@
 
 ### Tools
 - Git & GitHub
-- Docker (basic level)
+- Docker
 - Postman
 - DBeaver
 
