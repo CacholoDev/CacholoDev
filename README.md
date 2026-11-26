@@ -20,13 +20,9 @@
   </a>
 </p>
 
-### 🧩 Featured project
-
-🥖 **[Online ordering app for a bakery](https://github.com/CacholoDev/PFC)** — Java · Spring Boot · MySQL · Bootstrap
-
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CacholoDev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CacholoDev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CacholoDev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CacholoDev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
